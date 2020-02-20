@@ -20,6 +20,7 @@ Plugin 'pbrisbin/vim-mkdir'
 Plugin 'tpope/vim-surround'
 Plugin 'stephpy/vim-php-cs-fixer'
 Plugin 'pangloss/vim-javascript'
+Plugin 'maksimr/vim-jsbeautify'
 
 " All of your Plugins must be added before the following line
 call vundle#end()            " required
