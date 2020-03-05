@@ -14,13 +14,16 @@ Plugin 'tomasr/molokai'
 Plugin 'ekalinin/Dockerfile.vim'
 Plugin 'rking/ag.vim'
 Plugin 'skwp/greplace.vim'
+Plugin 'tomtom/tlib_vim'
 Plugin 'marcweber/vim-addon-mw-utils'
 Plugin 'garbas/vim-snipmate'
 Plugin 'pbrisbin/vim-mkdir'
 Plugin 'tpope/vim-surround'
+Plugin 'tpope/vim-fugitive'
 Plugin 'stephpy/vim-php-cs-fixer'
 Plugin 'pangloss/vim-javascript'
 Plugin 'maksimr/vim-jsbeautify'
+Plugin 'vim-scripts/Conque-GDB'
 
 " All of your Plugins must be added before the following line
 call vundle#end()            " required
